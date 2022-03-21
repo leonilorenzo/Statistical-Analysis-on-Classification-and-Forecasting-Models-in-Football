@@ -21,6 +21,6 @@ Statistical analysis of ordered logit models on the classification of the result
   - Statistical_Test.R, where all the OLMs created in Python were tested
   - Feature_Selection.R, where all the statistics in AC Milan match are filtered
 
-- OLMs and GLMs.ipynb, it is the main code
+- OLMs and GLMs.ipynb, the main code
 
-- Statistical_Analysis_on_Classification_and_Forecasting_Models_in_Football.pdf, it is the report of the study
+- Statistical_Analysis_on_Classification_and_Forecasting_Models_in_Football.pdf, the report of the study
